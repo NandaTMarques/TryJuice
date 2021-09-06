@@ -1,7 +1,7 @@
 ### Projeto TryJuice
 Projeto Full Stack da Trybe utilizando as tecnologias React.Js,Node.js,express,socket e banco de dados com o sequelize.Nele desenvolvemos um aplicativo de delivery de cerveja no qual a uma comunicação em tempo real entre pessoa usuária e vendedora fazendo o fluxo completo desda compra do usuario até a entrega do pedido.
 Participações:<br/>
-https://github.com/NandaTMarques<br/>
+https://github.com/mateuscoury<br/>
 https://github.com/emassaki<br/>
 https://github.com/ana-karine<br/>
 
@@ -22,4 +22,5 @@ EVAL_ALWAYS_RESTORE_DEV_DB=true<br/>
 *Rodar um npm start dentro da pasta backend<br/>
 *Rodar um npm install dentro da pasta frontend<br/>
 *Rodar um npm start dentro da pasta da pasta frontend</br>
-*E é so aproveitar agora...
+
+Feito com ❤️ por Fernanda Teixeira Marques 👋🏽 [Entre em contato!](https://www.linkedin.com/in/fernandadesenvolvedoraweb/)
